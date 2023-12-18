@@ -5,7 +5,6 @@ The spotifyPlaylistScrape project is developed for CS 105 and is designed to scr
 
 ## Dependencies
 This project heavily depends on Spotipy, which can be found at https://github.com/plamere/spotipy. Additionally, the project requires a client ID and secret from a developer account on Spotify. These can be set in the code or via environmental variables.
-```markdown
 
 ## Development Procedure
 The development procedure for the project involved implementing the following steps:
